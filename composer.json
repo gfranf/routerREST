@@ -1,0 +1,16 @@
+{
+    "name": "fran/api",
+    "description": "Enrutador REST",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fran Garcia",
+            "email": "frangarciaflores@hotmail.com"
+        }
+    ],
+    "require": {}
+}
